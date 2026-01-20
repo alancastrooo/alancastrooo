@@ -1,65 +1,58 @@
-<h1 align="center">Hey 👋 What's up?</h1>
+<h1 align="center">Alan Castro</h1>
 
-<h3 align="center">
-Alan Castro · Ingeniero en Tecnologías de la Información y Comunicaciones 
-</h3>
+<p align="center">
+  Ingeniero en Tecnologías de la Información y Comunicaciones (en formación)
+</p>
 
-###
+<p align="center">
+  Desarrollo de software · Web · Backend · IoT
+</p>
+
+---
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java" height="60" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=python" height="60" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cs" height="60" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="60" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="60" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="60" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="60" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="60" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="60" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=php" height="60" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="60" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=dotnet" height="60" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="60" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=linux" height="60" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="60" />
+  <img src="https://skillicons.dev/icons?i=java,python,js,ts" height="42" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=html,css,react" height="42" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=php,nodejs,dotnet" height="42" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=mysql,git,linux,arduino" height="42" />
 </div>
 
-###
+---
+
+<p align="center">
+  Apasionado por crear soluciones tecnológicas funcionales y bien estructuradas.
+  <br/>
+  Experiencia académica en desarrollo web, aplicaciones móviles, backend,
+  bases de datos y sistemas embebidos.
+</p>
+
+---
 
 <div align="center">
   <a href="https://www.linkedin.com/in/alancastrooo">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="25" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:alanarturomartinezest@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&color=D14836&logoColor=white&style=for-the-badge" height="25" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://alancastrooo.github.io">
-    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=github&color=000000&logoColor=white&style=for-the-badge" height="25" />
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=github&logoColor=white"/>
   </a>
-  <img src="https://img.shields.io/static/v1?message=Aguascalientes,+MX&logo=googlemaps&color=4285F4&logoColor=white&style=for-the-badge" height="25" />
 </div>
 
-###
+---
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=alancastrooo&theme=dracula&hide_border=true" height="140"/>
+</p>
+
+---
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alancastrooo/alancastrooo/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alancastrooo/alancastrooo/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/alancastrooo/alancastrooo/output/pacman-contribution-graph.svg">
+  <img alt="Contribution graph" src="https://raw.githubusercontent.com/alancastrooo/alancastrooo/output/pacman-contribution-graph.svg">
 </picture>
-
-###
-
