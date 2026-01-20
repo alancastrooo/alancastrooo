@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋 What's up?</h1>
 
 <h3 align="center">
-Alan Castro · Ingeniero en Tecnologías de la Información y Comunicaciones (en formación)
+Alan Castro · Ingeniero en Tecnologías de la Información y Comunicaciones 
 </h3>
 
 ###
@@ -35,8 +35,6 @@ Alan Castro · Ingeniero en Tecnologías de la Información y Comunicaciones (en
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mysql" height="60" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=arduino" height="60" />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=linux" height="60" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=git" height="60" />
@@ -64,4 +62,6 @@ Alan Castro · Ingeniero en Tecnologías de la Información y Comunicaciones (en
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alancastrooo/alancastrooo/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/alancastrooo/alancastrooo/output/pacman-contribution-graph.svg">
 </picture>
+
+###
 
