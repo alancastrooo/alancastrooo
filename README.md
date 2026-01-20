@@ -8,10 +8,6 @@
   Desarrollo de software · Desarrollo web y móvil · Backend · Sistemas embebidos
 </p>
 
-<p align="center">
-  Estudiante próximo a egresar · En búsqueda de residencia profesional
-</p>
-
 ---
 
 <div align="center">
@@ -49,15 +45,14 @@
 </div>
 
 ---
+###
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=alancastrooo&theme=dracula&hide_border=true" height="140"/>
-</p>
+<br clear="both">
 
----
+<div>
+  <img style="width: 100%" 
+       src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0C0E15&reversal=true" />
+</div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alancastrooo/alancastrooo/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alancastrooo/alancastrooo/output/pacman-contribution-graph.svg">
-  <img alt="Contribution graph" src="https://raw.githubusercontent.com/alancastrooo/alancastrooo/output/pacman-contribution-graph.svg">
-</picture>
+###
+
