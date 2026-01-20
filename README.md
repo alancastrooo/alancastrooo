@@ -25,8 +25,6 @@ Alan Castro · Ingeniero en Tecnologías de la Información y Comunicaciones
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=react" height="60" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=reactnative" height="60" />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=php" height="60" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="60" />
