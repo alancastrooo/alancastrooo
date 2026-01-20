@@ -5,28 +5,32 @@
 </p>
 
 <p align="center">
-  Desarrollo de software · Web · Backend · IoT
+  Desarrollo de software · Desarrollo web y móvil · Backend · Sistemas embebidos
+</p>
+
+<p align="center">
+  Estudiante próximo a egresar · En búsqueda de residencia profesional
 </p>
 
 ---
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,js,ts" height="42" />
+  <img src="https://skillicons.dev/icons?i=java,python,js,ts" height="44" />
   <img width="10" />
-  <img src="https://skillicons.dev/icons?i=html,css,react" height="42" />
+  <img src="https://skillicons.dev/icons?i=html,css,react" height="44" />
   <img width="10" />
-  <img src="https://skillicons.dev/icons?i=php,nodejs,dotnet" height="42" />
+  <img src="https://skillicons.dev/icons?i=php,nodejs,dotnet" height="44" />
   <img width="10" />
-  <img src="https://skillicons.dev/icons?i=mysql,git,linux,arduino" height="42" />
+  <img src="https://skillicons.dev/icons?i=mysql,git,linux,arduino" height="44" />
 </div>
 
 ---
 
 <p align="center">
-  Apasionado por crear soluciones tecnológicas funcionales y bien estructuradas.
+  Apasionado por el desarrollo de soluciones tecnológicas funcionales y bien estructuradas.
   <br/>
-  Experiencia académica en desarrollo web, aplicaciones móviles, backend,
-  bases de datos y sistemas embebidos.
+  Experiencia académica en desarrollo web y móvil, backend, bases de datos,
+  redes y sistemas embebidos, con enfoque práctico en la resolución de problemas.
 </p>
 
 ---
@@ -41,6 +45,7 @@
   <a href="https://alancastrooo.github.io">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=github&logoColor=white"/>
   </a>
+  <img src="https://img.shields.io/badge/Aguascalientes%2C%20MX-4285F4?style=flat&logo=googlemaps&logoColor=white"/>
 </div>
 
 ---
