@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://alancastrooo.github.io">
+    <img src="https://raw.githubusercontent.com/alancastrooo/alancastrooo/main/img/banner.png" alt="Alan Castro Banner" />
+  </a>
+</p>
+
 <h1 align="center">Alan Castro</h1>
 
 <p align="center">
