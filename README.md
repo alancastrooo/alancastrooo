@@ -31,7 +31,7 @@
 <p align="center">
   Apasionado por el desarrollo de soluciones tecnológicas funcionales y bien estructuradas.
   <br/>
-  Experiencia académica en desarrollo web y móvil, backend, bases de datos,
+  Experiencia en desarrollo web y móvil, backend, bases de datos,
   redes y sistemas embebidos, con enfoque práctico en la resolución de problemas.
 </p>
 
