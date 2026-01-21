@@ -53,8 +53,7 @@
 <br clear="both">
 
 <div>
-  <img style="width: 100%" 
-       src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0D1B2A,1B1F3B,0A0F1C&reversal=true" />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=000070"  />
 </div>
 
 
