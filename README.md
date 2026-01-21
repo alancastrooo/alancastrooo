@@ -52,10 +52,11 @@
 
 <br clear="both">
 
-<div>
+<<div>
   <img style="width: 100%" 
-       src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0C0E15&reversal=true" />
+       src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0D1B2A,1B1F3B,0A0F1C&reversal=true" />
 </div>
+
 
 ###
 
