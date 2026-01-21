@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://alancastrooo.github.io">
-    <img src="https://raw.githubusercontent.com/alancastrooo/alancastrooo/main/img/BanGit.png" alt="Alan Castro Banner" />
+    <img src="https://raw.githubusercontent.com/alancastrooo/alancastrooo/main/img/BanGit01.png" alt="Alan Castro Banner" />
   </a>
 </p>
 
