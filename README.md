@@ -47,7 +47,7 @@
   <a href="https://alancastrooo.github.io">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=github&logoColor=white"/>
   </a>
-  <img src="https://img.shields.io/badge/Aguascalientes%2C%20MX-4285F4?style=flat&logo=googlemaps&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Mexico-4285F4?style=flat&logo=googlemaps&logoColor=white"/>
 </div>
 
 <br clear="both">
